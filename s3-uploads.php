@@ -3,8 +3,8 @@
 /*
 Plugin Name: S3 Uploads
 Description: Store uploads in S3
-Author: Human Made Limited
-Version: 2.0.0-beta3-league
+Author: Human Made Limited, Oscar Barrett
+Version: 2.0.0-league
 Author URI: http://hmn.md
 GitHub Plugin URI: TheLeagueAU/S3-Uploads
 */
